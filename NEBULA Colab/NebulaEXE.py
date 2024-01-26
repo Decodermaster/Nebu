@@ -1,0 +1,1 @@
+exec(open("C:\\Users\\User\\Desktop\\Main Dekstop\\VJ\YT\\NEBULA Colab\\main.py", "r").read())
